@@ -1,8 +1,8 @@
-# qbf-cli
-   CLI工具
+# v-cli
+   vCLI工具
 # 安装
    ```
-   npm install -g qbf-cli
+   npm install -g v-cli
    ```
 #使用
    ```
