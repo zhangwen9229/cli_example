@@ -1,0 +1,26 @@
+{
+  "name": "v-cli",
+  "bin": {
+    "vcli": "index.js"
+  },
+  "version": "1.0.0",
+  "description": "CLI工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "章文顺",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "co": "^4.6.0",
+    "commander": "^2.15.1",
+    "git-clone": "^0.1.0",
+    "prompts": "^0.1.8",
+    "shelljs": "^0.8.2"
+  }
+}
